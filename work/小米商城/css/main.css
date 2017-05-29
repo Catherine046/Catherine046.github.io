@@ -1,0 +1,65 @@
+body {
+	background-color: #f5f5f5;
+}
+.pro {
+	width:1226px;
+	height: 653px;
+	margin: 0 auto;
+	
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.pro-ai {
+	height: 38px;
+}
+.pro-ai-l {
+	font: 18px "微软雅黑";
+}
+.pro-ai-r {
+	font: 14px "微软雅黑";
+}
+.pro-pic {
+	height: 614px;
+	font: 12px "微软雅黑";
+	text-align: center;
+}
+.pro-pic-1 {
+	width: 234px;
+	height: 614px;
+}
+.pro-pic-2 {
+	width: 234px;
+	height: 300px;
+	position: relative;
+	background-color: #fff;
+	margin-left: 14px;
+	margin-bottom: 14px;
+}
+.free {
+	position: absolute;
+	background: orange;
+	width: 64px;
+	height: 20px;
+	color: #fff;
+	left: 85px;
+	top: 0;
+}
+.pro-pic-2 img {
+	margin-top: 30px;
+}
+.pro-pic-2 p.one {
+	margin-top: 10px;
+}
+.pro-pic-2 p.two {
+	margin-bottom: 18px;
+	color: ;
+}
+.pro-pic-2 p.three {
+	font-size: 14px;
+	color: orange;
+	font-weight: 700;
+}
